@@ -14,3 +14,4 @@ go get github.com/morelmiles/thepeer-go
 - [] Add godco comments
 - [] Add the end points from the FC code base
 - [] Write tests
+- [] Add Github action for pull requests
